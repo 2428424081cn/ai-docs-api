@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific files/directories
+.index/
+.trash/
+.totp_secret
+*.zip
+ai-docs-api
+ai-docs-api.exe
+docs/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
